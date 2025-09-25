@@ -1,0 +1,6 @@
+shipping_method_id,method_name
+1,Standard Shipping
+2,Express Shipping
+3,Next-Day Delivery
+4,Same-Day Delivery
+5,International Shipping

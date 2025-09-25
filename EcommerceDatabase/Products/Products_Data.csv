@@ -1,0 +1,81 @@
+product_id,name,description,price,brand_id,category_id,created_at
+1,Whole Milk,Whole Milk from top brands.,5.8,22,1,2024-03-30 09:34:40
+2,Organic Eggs,Organic Eggs from top brands.,17.73,10,1,2020-12-26 06:37:23
+3,Cheddar Cheese,Cheddar Cheese from top brands.,29.27,2,1,2023-10-21 08:36:34
+4,Greek Yogurt,Greek Yogurt from top brands.,23.78,19,1,2020-03-17 14:45:57
+5,Whole Wheat Bread,Whole Wheat Bread from top brands.,1.33,5,2,2020-02-25 04:40:46
+6,Bagels,Bagels from top brands.,20.24,12,2,2022-02-20 12:53:36
+7,Croissants,Croissants from top brands.,16.43,10,2,2021-06-17 23:28:58
+8,Chocolate Cake,Chocolate Cake from top brands.,7.76,21,2,2024-07-27 06:15:22
+9,Chicken Breast,Chicken Breast from top brands.,18.39,3,3,2024-01-12 05:25:38
+10,Ground Beef,Ground Beef from top brands.,6.44,16,3,2022-12-29 06:58:01
+11,Salmon Fillet,Salmon Fillet from top brands.,26.06,2,3,2024-01-29 23:11:18
+12,Pork Chops,Pork Chops from top brands.,14.91,5,3,2023-08-24 16:30:44
+13,Frozen Pizza,Frozen Pizza from top brands.,5.52,9,4,2021-08-24 08:26:39
+14,Vegetable Mix,Vegetable Mix from top brands.,4.17,9,4,2023-09-22 13:12:26
+15,Chicken Nuggets,Chicken Nuggets from top brands.,23.04,8,4,2024-12-21 17:43:23
+16,Ice Cream,Ice Cream from top brands.,6.46,15,4,2025-01-12 05:59:00
+17,Potato Chips,Potato Chips from top brands.,16.05,10,5,2023-12-18 02:42:26
+18,Granola Bars,Granola Bars from top brands.,10.3,20,5,2020-10-23 01:35:56
+19,Trail Mix,Trail Mix from top brands.,7.35,11,5,2021-10-25 16:47:24
+20,Pretzels,Pretzels from top brands.,1.24,20,5,2024-07-28 11:01:36
+21,Coca-Cola,Coca-Cola from top brands.,20.18,18,6,2023-07-29 19:38:28
+22,Pepsi,Pepsi from top brands.,15.14,17,6,2025-01-16 19:19:38
+23,Orange Juice,Orange Juice from top brands.,21.79,5,6,2024-11-17 10:05:33
+24,Sparkling Water,Sparkling Water from top brands.,28.48,16,6,2022-10-31 17:39:06
+25,Tomato Soup,Tomato Soup from top brands.,28.84,9,7,2021-07-13 19:03:38
+26,Baked Beans,Baked Beans from top brands.,23.74,5,7,2022-08-07 13:32:14
+27,Canned Tuna,Canned Tuna from top brands.,23.41,19,7,2021-08-28 10:36:45
+28,Coconut Milk,Coconut Milk from top brands.,28.48,16,7,2024-01-15 15:54:28
+29,Spaghetti,Spaghetti from top brands.,13.11,1,8,2024-01-22 02:29:20
+30,Brown Rice,Brown Rice from top brands.,23.04,2,8,2021-07-23 19:50:21
+31,Macaroni,Macaroni from top brands.,22.89,13,8,2020-03-28 08:06:18
+32,Quinoa,Quinoa from top brands.,17.62,9,8,2020-03-25 22:32:38
+33,Ketchup,Ketchup from top brands.,13.65,1,9,2023-04-28 05:00:53
+34,Mayonnaise,Mayonnaise from top brands.,4.3,14,9,2022-07-23 11:10:38
+35,Mustard,Mustard from top brands.,9.54,22,9,2022-01-22 02:55:00
+36,Soy Sauce,Soy Sauce from top brands.,4.97,8,9,2023-12-31 17:07:57
+37,Shampoo,Shampoo from top brands.,25.61,15,10,2023-04-27 05:17:25
+38,Toothpaste,Toothpaste from top brands.,1.28,21,10,2020-05-21 01:19:15
+39,Deodorant,Deodorant from top brands.,9.43,11,10,2020-01-02 12:26:56
+40,Face Wash,Face Wash from top brands.,26.19,12,10,2021-01-07 23:13:33
+41,Laundry Detergent,Laundry Detergent from top brands.,2.91,2,11,2023-12-13 05:56:41
+42,Dish Soap,Dish Soap from top brands.,23.05,4,11,2024-12-07 20:03:00
+43,All-Purpose Cleaner,All-Purpose Cleaner from top brands.,29.66,16,11,2021-09-21 16:37:21
+44,Sponges,Sponges from top brands.,28.38,16,11,2020-09-27 09:48:12
+45,Diapers,Diapers from top brands.,28.24,17,12,2020-04-26 09:48:37
+46,Baby Wipes,Baby Wipes from top brands.,25.29,3,12,2024-09-04 06:56:33
+47,Formula Milk,Formula Milk from top brands.,19.82,8,12,2022-10-23 21:20:45
+48,Baby Shampoo,Baby Shampoo from top brands.,24.81,21,12,2022-07-10 21:22:13
+49,Dog Food,Dog Food from top brands.,20.83,15,13,2023-04-19 23:10:12
+50,Cat Litter,Cat Litter from top brands.,11.98,6,13,2021-12-10 11:29:12
+51,Fish Flakes,Fish Flakes from top brands.,12.42,2,13,2020-03-10 14:15:08
+52,Pet Shampoo,Pet Shampoo from top brands.,26.79,3,13,2022-04-06 17:10:20
+53,Vitamins,Vitamins from top brands.,3.43,20,14,2023-02-08 17:04:15
+54,Protein Powder,Protein Powder from top brands.,27.08,8,14,2021-10-14 11:02:50
+55,First Aid Kit,First Aid Kit from top brands.,23.22,8,14,2024-06-14 03:09:19
+56,Pain Reliever,Pain Reliever from top brands.,12.25,6,14,2023-12-05 11:34:06
+57,Trash Bags,Trash Bags from top brands.,11.83,15,15,2020-05-21 06:35:53
+58,Paper Towels,Paper Towels from top brands.,16.21,7,15,2024-08-31 12:51:13
+59,Toilet Paper,Toilet Paper from top brands.,2.07,15,15,2024-11-27 05:21:14
+60,Aluminum Foil,Aluminum Foil from top brands.,2.76,21,15,2023-04-13 19:57:12
+61,Bananas,Bananas from top brands.,19.15,22,16,2024-11-01 22:04:07
+62,Apples,Apples from top brands.,26.47,4,16,2024-04-13 18:48:03
+63,Lettuce,Lettuce from top brands.,20.56,13,16,2024-07-18 04:55:44
+64,Tomatoes,Tomatoes from top brands.,22.71,18,16,2020-01-02 16:24:03
+65,Red Wine,Red Wine from top brands.,28.71,15,17,2021-09-08 06:50:43
+66,Whiskey,Whiskey from top brands.,16.29,8,17,2020-06-16 05:58:36
+67,Vodka,Vodka from top brands.,8.21,5,17,2023-10-11 11:46:02
+68,Craft Beer,Craft Beer from top brands.,7.7,14,17,2021-09-26 07:55:02
+69,Oatmeal,Oatmeal from top brands.,9.87,11,18,2020-01-11 13:17:57
+70,Cornflakes,Cornflakes from top brands.,16.49,9,18,2024-09-22 11:09:13
+71,Pancake Mix,Pancake Mix from top brands.,27.09,19,18,2021-04-04 18:25:10
+72,Granola,Granola from top brands.,3.26,16,18,2023-07-12 20:41:25
+73,Ground Coffee,Ground Coffee from top brands.,2.06,18,19,2021-10-26 01:29:29
+74,Black Tea,Black Tea from top brands.,23.94,7,19,2024-10-04 04:52:13
+75,Herbal Tea,Herbal Tea from top brands.,26.58,2,19,2022-06-14 07:22:58
+76,Espresso Beans,Espresso Beans from top brands.,15.01,4,19,2022-07-29 08:08:49
+77,Sushi Rice,Sushi Rice from top brands.,21.97,14,20,2022-06-21 23:53:32
+78,Curry Paste,Curry Paste from top brands.,2.19,2,20,2024-02-16 21:30:55
+79,Tortillas,Tortillas from top brands.,18.96,12,20,2021-11-29 05:45:04
+80,Miso Paste,Miso Paste from top brands.,15.91,6,20,2022-04-26 04:55:54

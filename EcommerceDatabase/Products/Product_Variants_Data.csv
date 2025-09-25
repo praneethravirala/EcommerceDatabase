@@ -1,0 +1,144 @@
+variant_id,product_id,size,color,stock
+1,1,Large,,4
+2,1,Small,,40
+3,2,Medium,,36
+4,3,Medium,,0
+5,3,Medium,,4
+6,4,Large,,6
+7,5,Family Pack,,48
+8,5,Small,,49
+9,5,Large,,47
+10,6,Small,,0
+11,6,Family Pack,,45
+12,7,Large,,15
+13,7,Medium,,25
+14,8,Small,,18
+15,9,Large,,14
+16,10,Medium,,40
+17,10,Medium,,16
+18,10,Large,,11
+19,11,Large,,6
+20,11,Large,,15
+21,11,Large,,6
+22,12,Medium,,19
+23,13,Family Pack,,20
+24,14,Family Pack,,1
+25,15,Family Pack,,26
+26,15,Large,,44
+27,15,Large,,47
+28,16,Small,,6
+29,17,Small,,39
+30,18,Medium,,28
+31,18,Family Pack,,18
+32,19,Small,,38
+33,20,Medium,,10
+34,20,Large,,8
+35,21,Small,,19
+36,22,Medium,,45
+37,23,Small,,24
+38,24,Medium,,3
+39,25,Small,,17
+40,25,Family Pack,,34
+41,26,Family Pack,,31
+42,27,Large,,47
+43,28,Family Pack,,44
+44,28,Medium,,46
+45,29,Large,,27
+46,29,Large,,9
+47,29,Family Pack,,30
+48,30,Large,,39
+49,30,Medium,,21
+50,30,Small,,39
+51,31,Small,,28
+52,31,Family Pack,,15
+53,31,Family Pack,,27
+54,32,Small,,27
+55,32,Medium,,23
+56,33,Medium,,49
+57,33,Family Pack,,31
+58,33,Medium,,18
+59,34,Family Pack,,18
+60,34,Large,,7
+61,35,Medium,,39
+62,35,Family Pack,,25
+63,36,Family Pack,,2
+64,37,Large,,0
+65,37,Small,,35
+66,38,Small,,18
+67,38,Family Pack,,34
+68,39,Medium,,25
+69,39,Large,,20
+70,40,Small,,33
+71,40,Small,,47
+72,41,Large,,39
+73,42,Medium,,45
+74,42,Small,,46
+75,42,Family Pack,,30
+76,43,Large,,44
+77,43,Small,,41
+78,44,Small,,0
+79,45,Medium,,33
+80,45,Medium,,39
+81,45,Large,,24
+82,46,Family Pack,,39
+83,47,Medium,,47
+84,47,Family Pack,,48
+85,48,Small,,6
+86,48,Family Pack,,10
+87,49,Medium,,6
+88,50,Medium,,6
+89,50,Small,,42
+90,51,Large,,15
+91,52,Small,,17
+92,52,Large,,17
+93,53,Large,,0
+94,53,Family Pack,,8
+95,53,Small,,4
+96,54,Small,,11
+97,54,Large,,37
+98,54,Family Pack,,50
+99,55,Family Pack,,36
+100,55,Large,,26
+101,56,Small,,13
+102,57,Medium,Green,15
+103,57,Small,Red,37
+104,57,Medium,White,13
+105,58,Large,White,48
+106,59,Family Pack,White,32
+107,59,Family Pack,White,45
+108,60,Small,Blue,28
+109,60,Family Pack,Green,7
+110,61,Medium,Green,46
+111,61,Small,Red,3
+112,62,Family Pack,Red,1
+113,62,Large,Red,32
+114,62,Small,Blue,26
+115,63,Medium,Red,26
+116,63,Family Pack,White,5
+117,64,Medium,Red,5
+118,65,Family Pack,Green,23
+119,66,Medium,Green,28
+120,67,Medium,Red,3
+121,67,Small,Red,46
+122,68,Family Pack,Red,0
+123,69,Small,Green,37
+124,70,Medium,White,2
+125,70,Family Pack,Red,11
+126,71,Large,Green,22
+127,71,Small,Green,4
+128,72,Medium,Blue,41
+129,73,Family Pack,White,21
+130,74,Small,Red,30
+131,75,Small,Green,26
+132,75,Large,Red,17
+133,75,Large,White,34
+134,76,Large,White,7
+135,76,Large,Blue,22
+136,76,Small,Blue,0
+137,77,Large,Green,45
+138,78,Large,Blue,47
+139,79,Large,Blue,25
+140,79,Large,White,32
+141,79,Large,White,39
+142,80,Large,Green,49
+143,80,Medium,Red,9
